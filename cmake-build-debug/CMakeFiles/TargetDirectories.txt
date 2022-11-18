@@ -1,0 +1,3 @@
+/Users/mattisonchao/Projects/mattison/simple-db/cmake-build-debug/CMakeFiles/simple_db.dir
+/Users/mattisonchao/Projects/mattison/simple-db/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mattisonchao/Projects/mattison/simple-db/cmake-build-debug/CMakeFiles/rebuild_cache.dir
